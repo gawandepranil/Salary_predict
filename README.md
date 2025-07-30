@@ -151,16 +151,9 @@ We welcome your ideas!
 
 ## 📞 Contact
 
-- 📧 Email: your.email@example.com
-- 🐦 Twitter: [@yourusername](https://twitter.com/yourusername)
+- 📧 Email:pranilg24104@gmail.com
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
   
